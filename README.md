@@ -50,3 +50,17 @@ Run the server side using `yarn dev` and run the vibration motor `vibration_clie
 ## Conclusion
 
 By leveraging multiple technologies we were able to create a complex wearable device that can grant an extra sense of safety and awareness to its users. The Spidey-Sense hat can be useful in various scenarios such as maneuvering through busy areas, assisting women to get around at night, and helping workers in dangerous jobs stay more aware of their surroundings.
+
+
+### Getting too close
+![IMG_1848](https://user-images.githubusercontent.com/5289630/229369438-36e80dae-806e-4a16-8ae4-2c8b2a474c7d.jpg)
+
+### Threat detected
+![PXL_20230331_010835426 MP](https://user-images.githubusercontent.com/5289630/229369432-c2d31112-5a8e-42f0-b374-e6152fd7dc3e.jpg)
+
+### Initial pre POC
+
+https://user-images.githubusercontent.com/5289630/229369449-5357d831-68ff-4592-92e3-2d44c1cc008e.mp4
+
+
+
